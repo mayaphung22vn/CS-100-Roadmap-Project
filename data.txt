@@ -1,0 +1,201 @@
+name,state,acceptance_rate_pct,sat_25,sat_75,act_25,act_75,act_average,sat_average
+Alcorn State University,MS,45.3,670,998,15,19,17,904
+Allegheny College,PA,54.6,1173,1358,25,30,28,1275
+Amherst College,MA,9,1490,1580,33,35,34,1533
+Anderson University,SC,54.7,1100,1280,22,29,26,1202
+Appalachian State University,NC,90.1,1120,1280,21,27,24,1214
+Auburn University,AL,45.9,1260,1390,26,31,29,1345
+Austin College,TX,47.6,1100,1310,23,29,26,1212
+Babson College,MA,17.1,1390,1530,31,34,33,1457
+Ball State University,IN,85.5,1080,1260,20,24,22,1160
+Bard College,NY,52.1,1270,1450,28,32,30,1380
+Barnard College,NY,8.8,1470,1560,32,34,33,1520
+Bates College,ME,13.3,1420,1530,31,34,33,1468
+Baylor University,TX,51.3,1200,1400,27,32,30,1329
+Belhaven University,MS,49.8,1010,1298,19,24,22,1124
+Bennington College,VT,44.5,1291,1403,30,32,31,1364
+Bentley University,MA,45.1,1280,1430,28,31,30,1352
+Berea College,KY,19.3,1156,1335,23,28,26,1249
+Bethany Lutheran College,MN,39,1040,1180,21,26,24,1150
+Binghamton University,NY,38.6,1340,1500,30,32,31,1415
+Boston College,MA,16.4,1440,1540,33,35,34,1507
+Boston University,MA,11.1,1420,1530,32,34,33,1480
+Bowdoin College,ME,7.1,1470,1550,33,35,34,1520
+Brandeis University,MA,40.5,1390,1520,31,34,33,1462
+Brevard College,NC,42.2,870,1220,16,26,21,1060
+Brigham Young University,UT,67.8,1270,1460,28,32,30,1376
+Brigham Young University-Hawaii,HI,47,960,1190,21,25,23,1130
+Brown University,RI,5.4,1510,1580,34,35,35,1546
+Bryn Mawr College,PA,29.4,1280,1510,29,33,31,1396
+Bucknell University,PA,28.9,1310,1470,30,33,32,1410
+Carleton College,MN,20.4,1450,1560,32,34,33,1517
+Carnegie Mellon University,PA,11.7,1500,1570,34,35,35,1546
+Case Western Reserve University,OH,36.5,1430,1540,32,34,33,1513
+Centre College,KY,54.4,1160,1450,25,32,29,1352
+Citadel Military College of South Carolina,SC,22.7,1085,1285,22,27,25,1208
+Claremont McKenna College,CA,9.6,1470,1560,33,35,34,1527
+Clark University,MA,39.5,1288,1460,30,33,32,1370
+Clemson University,SC,38.3,1240,1410,28,32,30,1353
+Colby College,ME,7.1,1460,1550,32,34,33,1501
+Colgate University,NY,13.9,1430,1540,33,34,34,1508
+College of the Holy Cross,MA,17.6,1240,1410,27,32,30,1353
+College of the Ozarks,MO,12,1050,1220,20,25,23,1118
+Colorado College,CO,18.5,1230,1460,29,33,31,1365
+Columbia University in the City of New York,NY,4,1510,1580,34,35,35,1553
+Connecticut College,CT,37,1350,1500,30,33,32,1432
+Cornell University,NY,8.8,1500,1570,33,35,34,1535
+Dartmouth College,NH,5.4,1500,1570,33,35,34,1534
+Davidson College,NC,13.4,1400,1530,31,34,33,1469
+DePaul University,IL,75.9,1140,1330,25,31,28,1262
+Delaware State University,DE,46.6,800,1020,20,24,22,940
+Denison University,OH,17.4,1320,1490,30,33,32,1410
+Dickinson College,PA,42.1,1310,1460,30,33,32,1391
+Dillard University,LA,41.9,968,1202,18,22,20,1050
+Duke University,NC,5.7,1500,1570,34,35,35,1548
+East Carolina University,NC,89.2,1070,1240,21,26,24,1180
+Emerson College,MA,51.3,1270,1420,29,32,31,1358
+Emory University,GA,10.7,1470,1550,32,35,34,1520
+Fairfield University,CT,33.3,1260,1390,29,32,31,1335
+Fisk University,TN,37.4,1140,1510,19,24,22,1200
+Florida Agricultural and Mechanical University,FL,20.6,1030,1180,20,24,22,1107
+Florida Atlantic University,FL,66.1,1040,1200,21,26,24,1127
+Florida Gulf Coast University,FL,63.4,1040,1200,20,25,23,1114
+Florida International University,FL,54.7,1070,1260,21,27,24,1163
+Florida State University,FL,24.2,1270,1410,29,32,31,1361
+Franklin and Marshall College,PA,28.2,1310,1463,30,33,32,1392
+Furman University,SC,43,1260,1430,28,32,30,1371
+George Mason University,VA,87.5,1160,1360,25,30,28,1274
+George Washington University,DC,47.1,1350,1500,31,34,33,1433
+Georgetown University,DC,12.9,1390,1550,31,35,33,1487
+Georgia Institute of Technology,GA,14.1,1370,1540,30,34,32,1480
+Georgia Southern University,GA,87.9,986,1133,18,23,21,1053
+Georgia State University,GA,55.4,940,1180,19,26,23,1076
+Gettysburg College,PA,38.9,1270,1460,29,32,31,1379
+Grambling State University,LA,44.9,920,1080,15,19,17,943
+Grand Canyon University,AZ,78.9,1006,1113,20,22,21,1077
+Grand Valley State University,MI,83,940,1190,22,30,26,1074
+Grinnell College,IA,14.5,1410,1540,31,34,33,1486
+Hamilton College,NY,13.6,1450,1550,33,35,34,1506
+Hampden-Sydney College,VA,40.9,1030,1250,23,28,26,1207
+Harvard University,MA,3.6,1510,1580,34,36,35,1553
+Harvey Mudd College,CA,12.7,1500,1570,34,36,35,1545
+Haverford College,PA,12.4,1460,1550,33,35,34,1513
+Hillsdale College,MI,20.7,1320,1490,30,33,32,1415
+Howard University,DC,41.3,1090,1320,22,28,25,1213
+Huston-Tillotson University,TX,39.1,800,1160,16,28,22,1014
+Illinois Institute of Technology,IL,54.9,1180,1440,26,32,29,1311
+Illinois State University,IL,88.1,990,1210,21,27,24,1113
+Illinois Wesleyan University,IL,39.3,1120,1340,25,30,28,1275
+Indiana University-Bloomington,IN,78.2,1170,1400,27,33,30,1313
+Indiana University-Indianapolis,IN,76.4,1030,1240,21,29,25,1139
+Iowa State University,IA,88.7,1120,1360,21,28,25,1204
+James Madison University,VA,71.5,1170,1340,24,29,27,1256
+Johns Hopkins University,MD,6.4,1520,1570,34,36,35,1553
+Judson University,IL,47.6,816,1118,16,24,20,1039
+Kansas State University,KS,81.7,1060,1260,20,27,24,1151
+Kennesaw State University,GA,69.2,1000,1220,19,26,23,1113
+Kent State University at Kent,OH,86.3,1010,1240,18,25,22,1099
+Kenyon College,OH,31,1358,1503,31,33,32,1429
+Lafayette College,PA,31.4,1350,1500,31,33,32,1424
+LeTourneau University,TX,38,990,1330,21,30,26,1208
+Lehigh University,PA,25.9,1370,1500,31,34,33,1440
+Louisiana State University and Agricultural & Mechanical College,LA,73.3,1180,1340,24,30,27,1285
+Louisiana State University-Shreveport,LA,50.5,1000,1195,18,24,21,1090
+Loyola Marymount University,CA,45.1,1260,1430,28,32,30,1359
+Macalester College,MN,28.5,1350,1510,30,34,32,1440
+Maine Maritime Academy,ME,54.1,1095,1260,21,26,24,1166
+Massachusetts Institute of Technology,MA,4.5,1520,1580,34,36,35,1560
+Metropolitan State University of Denver,CO,98.8,880,1130,17,26,22,1019
+Miami University-Oxford,OH,75.4,1220,1390,25,30,28,1317
+Michigan State University,MI,84.8,1180,1360,25,31,28,1269
+Middle Tennessee State University,TN,69.1,1010,1230,20,26,23,1121
+Middlebury College,VT,10.8,1445,1550,33,35,34,1508
+Millsaps College,MS,43.1,1025,1150,21,28,25,1181
+Minneapolis College of Art and Design,MN,48.5,1130,1340,21,29,25,1161
+Mississippi State University,MS,77.6,1100,1350,21,29,25,1219
+Montana State University,MT,82.1,1065,1285,21,27,24,1183
+Union College,NY,43.9,1310,1480,29,33,31,1395
+United States Air Force Academy,CO,14.1,1230,1440,26,33,30,1350
+United States Coast Guard Academy,CT,22.4,1240,1400,27,32,30,1339
+United States Merchant Marine Academy,NY,34.2,1110,1300,22,29,26,1207
+United States Military Academy,NY,12.4,1200,1430,27,33,30,1355
+United States Naval Academy,MD,9.3,1210,1410,25,31,28,1307
+University at Buffalo,NY,74.2,1210,1380,27,32,30,1295
+University of Arizona,AZ,86.1,1150,1420,21,29,25,1246
+University of Arkansas,AR,74.3,1030,1220,21,28,25,1169
+University of Arkansas at Pine Bluff,AR,41.2,845,1108,14,18,16,922
+University of Central Florida,FL,40.1,1200,1350,25,29,27,1269
+University of Chicago,IL,4.5,1510,1580,34,35,35,1554
+University of Cincinnati,OH,85.3,1160,1370,24,29,27,1282
+University of Colorado Boulder,CO,78.1,1240,1430,29,33,31,1357
+University of Connecticut,CT,52.4,1210,1440,28,33,31,1348
+University of Dallas,TX,53.4,1120,1370,22,29,26,1227
+University of Delaware,DE,70.6,1190,1370,28,32,30,1292
+University of Florida,FL,24.2,1320,1480,29,33,31,1403
+University of Georgia,GA,37.7,1270,1480,29,34,32,1397
+University of Hawaii at Manoa,HI,86.6,1081,1293,17,25,21,1102
+University of Houston,TX,73.9,1160,1340,23,29,26,1250
+University of Illinois Chicago,IL,77.3,1130,1350,25,31,28,1250
+University of Illinois Urbana-Champaign,IL,42.4,1310,1520,30,34,32,1440
+University of Iowa,IA,83.6,1130,1330,21,28,25,1200
+University of Kansas,KS,93.5,1070,1300,20,28,24,1190
+University of Kentucky,KY,92.9,1070,1290,21,28,25,1215
+University of Louisville,KY,79.4,1040,1270,19,27,23,1150
+University of Maryland-College Park,MD,44.8,1400,1530,32,35,34,1473
+University of Massachusetts-Amherst,MA,59.7,1310,1500,30,33,32,1423
+University of Miami,FL,18.9,1320,1480,30,33,32,1415
+University of Michigan-Ann Arbor,MI,15.6,1360,1530,31,34,33,1465
+University of Minnesota-Twin Cities,MN,79.8,1300,1500,26,31,29,1362
+University of Mississippi,MS,96.6,1000,1200,21,29,25,1184
+University of Missouri-Columbia,MO,78.5,1150,1330,23,30,27,1247
+University of Nebraska-Lincoln,NE,87.5,1098,1330,22,28,25,1191
+University of Nevada-Las Vegas,NV,96.2,1010,1240,18,25,22,1094
+University of Nevada-Reno,NV,73.7,1060,1290,19,26,23,1132
+University of New Mexico,NM,95.2,890,1170,19,26,23,1038
+University of North Carolina School of the Arts,NC,30,1140,1370,22,29,26,1260
+University of North Carolina Wilmington,NC,64.2,1230,1340,24,29,27,1287
+University of North Carolina at Chapel Hill,NC,15.3,1390,1530,28,34,31,1439
+University of North Carolina at Charlotte,NC,79.6,1140,1330,21,28,25,1231
+University of North Carolina at Greensboro,NC,88.5,1150,1355,22,27,25,1193
+University of North Florida,FL,53.2,1070,1270,19,25,22,1153
+University of North Georgia,GA,67.9,980,1210,19,25,22,1106
+University of North Texas,TX,72.2,980,1230,19,27,23,1109
+University of Notre Dame,IN,11.3,1455,1560,33,35,34,1520
+University of Oklahoma-Norman Campus,OK,76.6,1140,1330,23,29,26,1246
+University of Oregon,OR,88.3,1130,1360,23,30,27,1272
+University of Pennsylvania,PA,5.4,1510,1570,34,36,35,1553
+University of Pittsburgh-Pittsburgh Campus,PA,58.1,1280,1460,29,33,31,1370
+University of Richmond,VA,22.2,1410,1530,33,35,34,1497
+University of Rochester,NY,40.1,1410,1540,31,34,33,1488
+University of South Carolina-Columbia,SC,60.2,1180,1360,26,32,29,1297
+University of South Florida,FL,43.2,1130,1320,24,29,27,1227
+University of Southern California,CA,9.8,1450,1550,32,35,34,1495
+University of Utah,UT,86,1190,1380,22,29,26,1257
+University of Virginia,VA,16.8,1410,1540,32,35,34,1480
+University of Virginia's College at Wise,VA,28.5,945,1120,18,22,20,1050
+University of West Alabama,AL,42.6,860,1120,16,21,19,1015
+University of West Georgia,GA,51.6,950,1140,17,22,20,1032
+University of Wisconsin-Madison,WI,45.2,1380,1520,29,33,31,1427
+Utah State University,UT,92.5,1070,1290,20,28,24,1187
+Vanderbilt University,TN,5.9,1500,1570,34,35,35,1549
+Vassar College,NY,18.6,1450,1550,33,35,34,1494
+Villanova University,PA,27,1395,1510,32,34,33,1460
+Virginia Commonwealth University,VA,92.6,1010,1270,22,30,26,1137
+Virginia Polytechnic Institute and State University,VA,54.8,1280,1450,28,32,30,1364
+Wake Forest University,NC,21.7,1410,1520,32,34,33,1475
+Warner University,FL,42.8,790,1070,14,20,17,932
+Washington University in St Louis,MO,12.1,1500,1570,33,35,34,1530
+Washington and Lee University,VA,14,1430,1540,33,34,34,1498
+Wayne State University,MI,81.2,1060,1270,23,29,26,1156
+Wellesley College,MA,14.1,1460,1560,33,35,34,1520
+Wesleyan University,CT,16.5,1415,1540,33,35,34,1501
+West Chester University of Pennsylvania,PA,78.4,1100,1270,24,28,26,1187
+West Virginia University,WV,89,1010,1220,20,26,23,1122
+West Virginia University Institute of Technology,WV,36.7,880,1120,19,23,21,1033
+Whitman College,WA,38.1,1310,1480,29,33,31,1410
+William & Mary,VA,34.1,1400,1530,32,34,33,1473
+William Jewell College,MO,38.4,1080,1270,18,24,21,1095
+William Penn University,IA,51.9,880,1110,16,22,19,984
+Williams College,MA,8.2,1490,1570,34,35,35,1533
+Wofford College,SC,51.9,1198,1343,27,31,29,1296
+Yale University,CT,3.9,1470,1570,33,35,34,1534
